@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayush-Gupta1243/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Ayush-Gupta1243/leetcode-solutions/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Ayush-Gupta1243/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Ayush-Gupta1243/leetcode-solutions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-Gupta1243/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayush-Gupta1243/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0189-rotate-array](https://github.com/Ayush-Gupta1243/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Ayush-Gupta1243/leetcode-solutions/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayush-Gupta1243/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Ayush-Gupta1243/leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
